@@ -33,7 +33,7 @@
 
 ### 方法一：使用可执行文件 (推荐，无需安装环境)
 
-1. 从 [Releases](你的Github Release页面链接) 页面下载最新的 `Cobot_processExcel.exe`。
+1. 从这里下载最新的 `Cobot_processExcel.exe`。
 
 2. 将下载的exe文件与Cobot导出的**源Excel文档**（如 `xxx的全部问题数据.xlsx`）放置在同一文件夹下。
 
@@ -122,7 +122,3 @@ python Cobot_processExcel.py
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request来改进这个工具。例如，支持更多格式的输入、增加GUI界面等。
-
-------
-
-**希望这份README能帮助你的项目在GitHub上更清晰、更专业！** 它清晰地阐述了工具的价值、原理和用法，既能帮助直接使用者，也方便开发者进行二次定制。
