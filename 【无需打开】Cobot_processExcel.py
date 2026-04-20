@@ -3,7 +3,7 @@ from openpyxl.styles import Font, Alignment, PatternFill
 import subprocess
 
 # 一、读取源文件
-todo = input("请输入要处理的Excel文件（如：甲方公司的全部Cobot问题数据.xlsx）: ")
+todo = input("请输入要处理的Excel文件（如：Cobot问题单数据.xlsx）: ")
 wb1 = load_workbook(todo)
 ws1 = wb1.active
 
